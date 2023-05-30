@@ -1,0 +1,10 @@
+.env
+/templates
+/.vscode
+app.py
+challenge 1.py
+player_data.db
+/.db
+templates
+.vscode
+__pycache__
